@@ -1,0 +1,16 @@
+.card-img-top{
+    width:15rem;
+    height:15rem
+}
+.card{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    padding-top:30px;
+}
+.bodystyle{
+    background-image: url('./bgimage.webp');
+    margin-top: -45px;
+    
+}
